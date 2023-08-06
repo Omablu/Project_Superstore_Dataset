@@ -15,6 +15,7 @@ Include the following:
 Your KPIs (maximum: 4)
 Suitable header and subtitles for each visualization
 A suitable slicer
+
 ## Solutions
 Business Questions:
 1. The best-performing Segment
@@ -35,21 +36,27 @@ Then I went on to draw a few insights from the dataset like
    
    ![image](https://github.com/Omablu/Project_Superstore_Dataset/assets/119351114/4dff4064-302a-41e8-8522-1415c124919d)
 From the pivot table, I was able to visualize and arrive at the solutions below;
+
 The segment with the highest Profit
 
 ![image](https://github.com/Omablu/Project_Superstore_Dataset/assets/119351114/49f560b5-87c4-46c0-bba4-8c29aba73bd4)
+
 Most Profitable category
 
 ![image](https://github.com/Omablu/Project_Superstore_Dataset/assets/119351114/0bd5883f-c3e9-49d9-9eb3-16abe508e35e)
+
 Top 10 performing state
 
 ![image](https://github.com/Omablu/Project_Superstore_Dataset/assets/119351114/fa9b3338-4ea5-4ae5-a24e-12e17c629e49)
+
 Highest sales by shipping method
 
 ![image](https://github.com/Omablu/Project_Superstore_Dataset/assets/119351114/a8491076-eb72-4f02-8eb5-7b4e3ede6725)
+
 Total sales by Region
 
 ![image](https://github.com/Omablu/Project_Superstore_Dataset/assets/119351114/0f881d37-6d20-4629-8168-c20708789368)
+
 
 ## Conclusion ##
 At the end of my analysis, I was able to draw reasonable insights that will help make informed decisions for the coming year based on the data from the previous year.
